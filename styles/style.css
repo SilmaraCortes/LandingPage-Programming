@@ -18,12 +18,12 @@ header{
 
 #title{
    flex-direction: column;
-   line-height: 10px;
+   line-height: 15px;
 }
 
 li{
    display: inline-block;
-   margin: 20px;
+   margin: 50px;
 }
 
 a{
