@@ -18,7 +18,8 @@
      }
 
      img{
-        width: 300px;
+        width: 250px;
         padding: 30px;
+        padding-left: 10px;
      }
 }
